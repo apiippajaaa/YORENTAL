@@ -61,22 +61,6 @@ Vehicles can have different statuses, including:
 
 ---
 
-## Screenshots
-
-> Add your screenshots here.
-
-Example:
-
-```
-docs/
-├── home.png
-├── car-detail.png
-├── booking.png
-└── dashboard.png
-```
-
----
-
 ## Installation
 
 ### 1. Clone the repository
