@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "tiny-slider/src/tiny-slider.css";
+
+.personalisasi-box {
+    @apply w-full h-32 flex items-center justify-center rounded-md cursor-pointer text-white transition-all duration-300;
+}
+
+.personalisasi-box:hover {
+    @apply scale-105;
+}
+
+.personalisasi-box:active {
+    @apply scale-95;
+}
+
+[x-cloak] {
+    display: none !important;
+}
